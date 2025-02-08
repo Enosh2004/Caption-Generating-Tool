@@ -1,2 +1,2 @@
 # llm
-language detectpr
+language detector project
